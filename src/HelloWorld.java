@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
   // Prints "Hello, World" to the terminal window.
-    System.out.println("Docker & Continuous Integration ftw");
+    System.out.println("Docker & Continuous Integration ftw!");
   }
 }
